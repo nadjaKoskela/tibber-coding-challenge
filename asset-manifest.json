@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nadjaKoskela/tibber-coding-challenge/static/css/main.5aab6076.css",
+    "main.js": "/nadjaKoskela/tibber-coding-challenge/static/js/main.edd8f7a8.js",
+    "static/js/787.d8cb7c0d.chunk.js": "/nadjaKoskela/tibber-coding-challenge/static/js/787.d8cb7c0d.chunk.js",
+    "static/media/tibber_shot12_final_hires.png": "/nadjaKoskela/tibber-coding-challenge/static/media/tibber_shot12_final_hires.30cd450703b74bee82f8.png",
+    "static/media/tibber_branding_yard.png": "/nadjaKoskela/tibber-coding-challenge/static/media/tibber_branding_yard.998995984e09e019e8ee.png",
+    "static/media/tibber_branding_tesla_cat.png": "/nadjaKoskela/tibber-coding-challenge/static/media/tibber_branding_tesla_cat.e2505077b41175833099.png",
+    "static/media/Cat_mosaique.png": "/nadjaKoskela/tibber-coding-challenge/static/media/Cat_mosaique.5c99e4da43b9b780754b.png",
+    "static/media/avenir-next-regular.ttf": "/nadjaKoskela/tibber-coding-challenge/static/media/avenir-next-regular.aad20257b568c5b199e8.ttf",
+    "static/media/silka-regular-webfont.ttf": "/nadjaKoskela/tibber-coding-challenge/static/media/silka-regular-webfont.eb71e0bf44df4dbcd1b6.ttf",
+    "static/media/tibber_logo.svg": "/nadjaKoskela/tibber-coding-challenge/static/media/tibber_logo.ec75aeb5a6972a1d0aafc36543bce2c0.svg",
+    "index.html": "/nadjaKoskela/tibber-coding-challenge/index.html",
+    "main.5aab6076.css.map": "/nadjaKoskela/tibber-coding-challenge/static/css/main.5aab6076.css.map",
+    "main.edd8f7a8.js.map": "/nadjaKoskela/tibber-coding-challenge/static/js/main.edd8f7a8.js.map",
+    "787.d8cb7c0d.chunk.js.map": "/nadjaKoskela/tibber-coding-challenge/static/js/787.d8cb7c0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aab6076.css",
+    "static/js/main.edd8f7a8.js"
+  ]
+}
