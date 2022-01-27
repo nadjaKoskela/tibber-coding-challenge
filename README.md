@@ -10,6 +10,7 @@ But it was still pretty fun and I'm sure that I learned quite a lot in a fairly 
 
 HOW TO START THE PAGE
 Excellent question - I am not quite sure about this.
+I found this source but haven't tried it: https://create-react-app.dev/docs/deployment/
 Locally, I did it like this: 
     1. Install Node.js on your local computer
     2. Install React.js on your local computer
